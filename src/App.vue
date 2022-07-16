@@ -14,11 +14,6 @@
     mounted: () => {
       console.log('hello');
     },
-    methods: {
-      add() {
-        const a = '123';
-      },
-    },
   };
 </script>
 
